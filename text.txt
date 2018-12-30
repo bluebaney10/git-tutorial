@@ -2,3 +2,4 @@ version control with git
 blue
 update file to test git
 update on remote 
+my friend update 30-12-2018
